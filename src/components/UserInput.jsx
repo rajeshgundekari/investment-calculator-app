@@ -38,7 +38,7 @@ export default function UserInput({ onChange, userInput }) {
             />
           </p>
           <p>
-            <label>Duration</label>
+            <label>Duration (In Years)</label>
             <input
               type="number"
               required
