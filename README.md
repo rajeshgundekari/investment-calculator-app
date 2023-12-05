@@ -13,7 +13,8 @@ The "assets" folder contains logo.
 
 **Valiadtions:**   
 Duration should be greater than or equal to 1 to calculate otherwise.
-![Uploading image.png…]()
+![image](https://github.com/rajeshgundekari/investment-calculator-app/assets/67254331/dedc0450-ef7c-477d-8f97-6e2c144e42b2)
+
 
 
 **App Screenshot**
