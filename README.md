@@ -1,3 +1,7 @@
+codesandbox url for few of the exercises understanding components, jsx, handling events, and state.
+
+https://codesandbox.io/dashboard/recent?workspace=304916e4-df1d-43aa-a6c0-6aa0ecc0c118 (Opens in new window or tab)
+
 # Getting Started with Create React App
 
 It's Investment Calculator App using Reactjs Fundamentals ( Components, JSX, Conditional Rendering, Props)
