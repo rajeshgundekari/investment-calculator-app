@@ -9,6 +9,7 @@ There are 3 components (Header, User Input, Results) used in the app as depicted
   3. Results for showing the outcome of the given input.
 
 The "util" folder contains "investment.js" file for interest computation logic, and "formatter" constant for formatting the values to '$' format.
+The "assets" folder contains logo.
 
 **Valiadtions:**   
 Duration should be greater than or equal to 1 to calculate otherwise.
