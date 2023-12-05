@@ -12,9 +12,10 @@ The "util" folder contains "investment.js" file for interest computation logic, 
 The "assets" folder contains logo.
 
 **Valiadtions:**   
-Duration should be greater than or equal to 1 to calculate otherwise.
-![image](https://github.com/rajeshgundekari/investment-calculator-app/assets/67254331/dedc0450-ef7c-477d-8f97-6e2c144e42b2)
 
+Duration should be greater than or equal to 1 to calculate otherwise an error message will be shown.
+
+![image](https://github.com/rajeshgundekari/investment-calculator-app/assets/67254331/dedc0450-ef7c-477d-8f97-6e2c144e42b2)
 
 
 **App Screenshot**
